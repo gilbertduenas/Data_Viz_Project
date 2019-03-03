@@ -3,3 +3,6 @@ config.py
 
 # Ignore .ipynb_checkpoints folder
 .ipynb_checkpoints
+
+# Ignore cache
+__pycache__
