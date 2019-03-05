@@ -22,6 +22,9 @@ We would like to discover a correlation between violent crimes and fitness cente
 * https://healthdata.gov/dataset/deaths-pneumonia-and-influenza-pi-and-all-deaths-state-and-region-national-center-health
 * https://www.data.gov/developers/apis
 * http://apps.who.int/gho/data/node.country.country-USA?lang=en
+* https://github.com/fbi-cde/crime-data-frontend
+* https://catalog.data.gov/dataset/hospitals-dcdfc
+* https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_life_expectancy
 
 ---
 ## Task Breakdown
