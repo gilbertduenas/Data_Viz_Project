@@ -6,3 +6,6 @@ config.py
 
 # Ignore cache
 __pycache__
+
+# Ignore "kitchen sink" folder
+crime_insurance_data
