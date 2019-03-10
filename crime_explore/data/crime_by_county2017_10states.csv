@@ -1,0 +1,127 @@
+State,County,data_year,property-crime,violent-crime,population,state_abbr
+Alaska,aleutians,2017,5432,1212,739795,AK
+Alaska,anchorage,2017,762,64,739795,AK
+Alaska,bethel,2017,127,15,739795,AK
+Alaska,bristol,2017,16380,3601,739795,AK
+Alaska,dillingham,2017,76,2,739795,AK
+Arkansas,arkansas,2017,15057,2595,3004279,AR
+Arkansas,ashley,2017,19176,3100,3004279,AR
+Arkansas,baxter,2017,14441,2442,3004279,AR
+Arkansas,benton,2017,5032,1070,3004279,AR
+Arkansas,boone,2017,16266,3702,3004279,AR
+Arkansas,bradley,2017,1054,185,3004279,AR
+Arkansas,calhoun,2017,7344,1180,3004279,AR
+Arkansas,carroll,2017,2171,447,3004279,AR
+Arkansas,chicot,2017,2003,339,3004279,AR
+Arkansas,clark,2017,711,207,3004279,AR
+Arkansas,clay,2017,255,31,3004279,AR
+Arkansas,cleburne,2017,779,146,3004279,AR
+Arkansas,cleveland,2017,98,19,3004279,AR
+Arkansas,columbia,2017,2006,266,3004279,AR
+Arkansas,conway,2017,537,65,3004279,AR
+Arkansas,craighead,2017,16,2,3004279,AR
+Louisiana,acadia,2017,31810,5043,4684333,LA
+Louisiana,allen,2017,28177,4752,4684333,LA
+Louisiana,ascension,2017,23619,5747,4684333,LA
+Louisiana,assumption,2017,30725,3908,4684333,LA
+Louisiana,avoyelles,2017,26546,3952,4684333,LA
+Louisiana,beauregard,2017,8926,1514,4684333,LA
+Louisiana,bienville,2017,2634,385,4684333,LA
+Louisiana,bossier,2017,123,11,4684333,LA
+Louisiana,caddo,2017,0,0,4684333,LA
+Massachusetts,barnstable,2017,5176,948,6859819,MA
+Massachusetts,berkshire,2017,7488,1776,6859819,MA
+Massachusetts,bristol,2017,64396,19928,6859819,MA
+Massachusetts,dukes,2017,24288,6492,6859819,MA
+Massachusetts,essex,2017,3488,432,6859819,MA
+Massachusetts,franklin,2017,8544,2032,6859819,MA
+Massachusetts,hampden,2017,2688,184,6859819,MA
+Massachusetts,hampshire,2017,5652,1336,6859819,MA
+Massachusetts,middlesex,2017,13856,5144,6859819,MA
+Massachusetts,nantucket,2017,5320,1960,6859819,MA
+Massachusetts,norfolk,2017,12704,2424,6859819,MA
+Massachusetts,plymouth,2017,15424,3840,6859819,MA
+Massachusetts,suffolk,2017,28392,7304,6859819,MA
+Massachusetts,worcester,2017,6516,2304,6859819,MA
+Maine,androscoggin,2017,5253,426,1335907,ME
+Maine,aroostook,2017,1669,115,1335907,ME
+Maine,cumberland,2017,2770,223,1335907,ME
+Maine,franklin,2017,2189,180,1335907,ME
+Maine,hancock,2017,1054,82,1335907,ME
+Maine,kennebec,2017,3692,322,1335907,ME
+Maine,knox,2017,1668,139,1335907,ME
+Maine,lincoln,2017,201,23,1335907,ME
+Maine,oxford,2017,1033,52,1335907,ME
+Maine,penobscot,2017,592,49,1335907,ME
+New Hampshire,belknap,2017,407,53,1342795,NH
+New Hampshire,carroll,2017,559,68,1342795,NH
+New Hampshire,cheshire,2017,744,75,1342795,NH
+New Hampshire,coos,2017,216,38,1342795,NH
+New Hampshire,grafton,2017,78,15,1342795,NH
+New Hampshire,hillsborough,2017,509,57,1342795,NH
+New Hampshire,merrimack,2017,1802,235,1342795,NH
+New Hampshire,rockingham,2017,98,6,1342795,NH
+New Hampshire,strafford,2017,1904,272,1342795,NH
+New Hampshire,sullivan,2017,365,64,1342795,NH
+New Jersey,atlantic,2017,20332,2732,9005644,NJ
+New Jersey,bergen,2017,24444,3160,9005644,NJ
+New Jersey,burlington,2017,7436,632,9005644,NJ
+New Jersey,camden,2017,37612,6064,9005644,NJ
+New Jersey,cape,2017,20704,3484,9005644,NJ
+New Jersey,cumberland,2017,9936,616,9005644,NJ
+New Jersey,essex,2017,33880,2784,9005644,NJ
+New Jersey,gloucester,2017,29704,6732,9005644,NJ
+New Jersey,hudson,2017,65208,14848,9005644,NJ
+New Jersey,hunterdon,2017,17240,876,9005644,NJ
+New Jersey,mercer,2017,38416,5280,9005644,NJ
+New Jersey,middlesex,2017,12408,1012,9005644,NJ
+New Jersey,monmouth,2017,18608,2924,9005644,NJ
+New Jersey,morris,2017,13948,1368,9005644,NJ
+New Jersey,ocean,2017,20924,5272,9005644,NJ
+New Jersey,passaic,2017,12340,1284,9005644,NJ
+New Jersey,salem,2017,34468,10724,9005644,NJ
+New Jersey,somerset,2017,6920,612,9005644,NJ
+New Jersey,sussex,2017,6988,528,9005644,NJ
+New Jersey,union,2017,21756,2560,9005644,NJ
+New Jersey,warren,2017,9500,792,9005644,NJ
+New Mexico,bernalillo,2017,58932,12218,2088070,NM
+New Mexico,catron,2017,7139,1495,2088070,NM
+New Mexico,chaves,2017,9968,1488,2088070,NM
+New Mexico,cibola,2017,3974,674,2088070,NM
+New Mexico,colfax,2017,284,169,2088070,NM
+South Carolina,abbeville,2017,18030,3339,5024369,SC
+South Carolina,aiken,2017,14475,2313,5024369,SC
+South Carolina,allendale,2017,10611,1646,5024369,SC
+South Carolina,anderson,2017,11689,1701,5024369,SC
+South Carolina,bamberg,2017,8980,1386,5024369,SC
+South Carolina,barnwell,2017,16604,2894,5024369,SC
+South Carolina,beaufort,2017,6457,1118,5024369,SC
+South Carolina,berkeley,2017,11722,1651,5024369,SC
+South Carolina,calhoun,2017,3861,675,5024369,SC
+South Carolina,charleston,2017,14921,1882,5024369,SC
+South Carolina,cherokee,2017,7908,1021,5024369,SC
+South Carolina,chester,2017,3119,285,5024369,SC
+South Carolina,chesterfield,2017,1467,176,5024369,SC
+South Carolina,clarendon,2017,16896,3008,5024369,SC
+South Carolina,colleton,2017,682,45,5024369,SC
+South Carolina,darlington,2017,5903,1058,5024369,SC
+South Carolina,dillon,2017,61,8,5024369,SC
+South Carolina,dorchester,2017,3383,686,5024369,SC
+South Carolina,edgefield,2017,378,17,5024369,SC
+South Carolina,fairfield,2017,59,0,5024369,SC
+South Carolina,florence,2017,26,10,5024369,SC
+South Carolina,georgetown,2017,92,20,5024369,SC
+Vermont,addison,2017,1543,240,623657,VT
+Vermont,bennington,2017,1472,124,623657,VT
+Vermont,caledonia,2017,1042,105,623657,VT
+Vermont,chittenden,2017,1127,101,623657,VT
+Vermont,essex,2017,724,85,623657,VT
+Vermont,franklin,2017,236,35,623657,VT
+Vermont,grand,2017,67,10,623657,VT
+Vermont,lamoille,2017,839,140,623657,VT
+Vermont,orange,2017,537,41,623657,VT
+Vermont,orleans,2017,262,43,623657,VT
+Vermont,rutland,2017,103,5,623657,VT
+Vermont,washington,2017,329,32,623657,VT
+Vermont,windham,2017,1,0,623657,VT
+Vermont,windsor,2017,12,1,623657,VT
